@@ -1,6 +1,6 @@
 # How to build a native package in Visual Studio
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4450)**
+**[[Run Online]](https://codecentral.devexpress.com/e4450/)**
 <!-- run online end -->
 
 
